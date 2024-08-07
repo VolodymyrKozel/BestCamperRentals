@@ -6,5 +6,4 @@ function FavoritesPage({}: Props) {
   return <div>FavoritesPage</div>;
 }
 
-export default Favorites;
-Page;
+export default FavoritesPage;
